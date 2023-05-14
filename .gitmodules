@@ -34,3 +34,6 @@
 [submodule "lib/heatshrink"]
 	path = lib/heatshrink
 	url = https://github.com/flipperdevices/heatshrink.git
+[submodule "applications/external/logic_analyzer"]
+	path = applications/external/logic_analyzer
+	url = git@github.com:u-foka/flipper-logic_analyzer.git
